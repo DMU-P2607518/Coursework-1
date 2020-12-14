@@ -75,7 +75,7 @@ a {
 
 .style1 {  /* stylling for images */
   float: left;   /* made this so text can surround the images */
-  max-width: 23%;
+  max-width: 22%;
   padding-right: 20px;
   padding-bottom: 0px;
   }
@@ -91,7 +91,7 @@ a {
 .cast {
   color: white;
   background-color: black;
-  padding: 30px 20px 80px 20px;
+  padding: 30px 20px 90px 20px;
   font-family: "Courier New", monospace;
   line-height: 1.4;
   }
@@ -109,7 +109,7 @@ a {
     border-radius: 10px;
     font-size: 15px;
     font-family: monospace;
-    text-decoration: none;
+    text-decoration: none;  /* deleted undeeline cause it looks bad */
     }
 
 .fullwidth {
